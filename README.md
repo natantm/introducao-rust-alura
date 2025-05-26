@@ -35,7 +35,5 @@ Este repositório contém exemplos e anotações dos estudos de Rust realizados 
 
 ## Observações
 
-- Os arquivos `.rs` estão comentados para facilitar o entendimento.
-- O projeto serve como material de consulta e prática para quem está aprendendo Rust.
-
+- Os arquivos `.rs` e o README foram comentados com o chatGPT (só essa parte eu escrevi).
 ---
